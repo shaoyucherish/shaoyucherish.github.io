@@ -15,3 +15,4 @@ Data scientists focus on comparing a number of different methods to create the b
 - How do you view yourself in relation to these two areas?
 
 Although data scientists and statisticians tend to gather information for similar purposes, their means of data collection are quite different. Data science can be described as the description, prediction, and causal inference from both structured and unstructured data. This discipline helps individuals and enterprises make better business decisions. The field of data science employs computer science disciplines like mathematics and statistics and incorporates techniques like data mining, cluster analusis, visualization and machine learning. However, statisticians still rely on more traditional and smaller scale methods of data collection, such as surveys, polls, and experiments.
+
