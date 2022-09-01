@@ -1,5 +1,4 @@
-Here you can say lots of fun things about your site.
+Name: Shaoyu  
+Email: swang84@ncsu.edu
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+I am learning statistics now and my career goal is to be a data analyst. So I am going to blog about programming, articles, thoughts, etc. related to data science or machine learning.
