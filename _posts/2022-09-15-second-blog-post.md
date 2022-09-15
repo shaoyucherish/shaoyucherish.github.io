@@ -1,6 +1,3 @@
 ## Second Blog
 
-[Project 1](https://github.com/shaoyucherish/shaoyu/blob/main/docs/Project1_ShaoyuWang.html)
-
-what was the purpose of the project, what did you learn, what you would do differently, etc.
-
+I have just completed my [first project](https://github.com/shaoyucherish/shaoyu/blob/main/docs/Project1_ShaoyuWang.html) for the course Data Science for Statisticians. The purpose of this project is to write functions that will manipulate and process data sets that come in a certain form. I create a *generic* function to automatically plot the returned data. There are four parts: data processing, call it and combine the data, writing a generic function for summarizing, and put it together. Through this project, I have learnt a lot. I followed the steps to process the data in the first part, and then write the functions, and use these functions at last. We test out the functions to combine data and plot what we want. During this project, I met with many problems and issues, but I finally solved them. It is a challenging project for me. However, when I completed it, it was rewarding in the end.
