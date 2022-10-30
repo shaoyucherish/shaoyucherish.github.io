@@ -1,3 +1,5 @@
+# Third Blog
+
 Exploratory Data Analysis (EDA) is an approach of analyzing and investigating data sets to summarize their main characteristics, usually using data visualization methods. We need to think about how best to analyze and interpret data sets. The main purpose of EDA is to help observe data before making any assumptions. It can help identify obvious errors, find the internal structure of data, extract important variables, detect outliers, test hypotheses, and build the preliminary models. EDA can let us understand patterns of data better and find interesting relationships between variables. 
 
 There are main steps for EDA as follows:
