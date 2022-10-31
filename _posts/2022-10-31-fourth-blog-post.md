@@ -6,7 +6,7 @@ Classical variable selection methods include forward selection, backward elimina
 
 The LASSO is a modern variable selection method. This method has a different penalty term in its penalized estimation function. So it is also called penalty-driven method. It is similar to Ordinary Least Squares (OLS) regression, LASSO minimizes the Residual Sum of Squares (RSS) but poses a constraint to the sum of the absolute values of the coefficients being less than a constant. This additional constraint is moreover similar to that introduced in Ridge regression, where the constraint is to the sum of the squared values of the coefficients. This simple modification allows LASSO to perform also variable selection because the shrinkage of the coefficients is such that some coefficients can be shrunk exactly to zero.
 
-References:
-[NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5969114/)
-[BioStat](https://www.biostat.jhsph.edu/~iruczins/teaching/jf/ch10.pdf)
+References:  
+[NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5969114/)  
+[BioStat](https://www.biostat.jhsph.edu/~iruczins/teaching/jf/ch10.pdf)  
 [Ratner](https://link.springer.com/content/pdf/10.1057/jt.2009.26.pdf)
