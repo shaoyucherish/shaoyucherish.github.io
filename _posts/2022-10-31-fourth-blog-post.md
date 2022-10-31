@@ -9,4 +9,4 @@ The LASSO is a modern variable selection method. This method has a different pen
 References:  
 [NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5969114/)  
 [BioStat](https://www.biostat.jhsph.edu/~iruczins/teaching/jf/ch10.pdf)  
-[Ratner](https://link.springer.com/content/pdf/10.1057/jt.2009.26.pdf)
+[Journal of Targeting](https://link.springer.com/content/pdf/10.1057/jt.2009.26.pdf)
