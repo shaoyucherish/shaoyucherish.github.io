@@ -1,6 +1,7 @@
-• what would you do differently?  
-• what was the most difficult part for you?  
-• what are your big take-aways from this project?  
-# Project 3 Blog
+  # Project 3 Blog
 
-The aim of this project is to create predictive models and automate Markdwon reports. We read in and analyze an online news popularity data set. There are six news channels
+This project involves creating predictive models and automating Markdown reports. The data set we used for this project is [online news popularity data set](https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity), which summarizes a heterogeneous set of features about articles published by Mashable in a period of two years. We fitted regression models and ensemble tree-based models and selected the best model for predicting the response variable. The creation of analysis reports were automated for 6 different news channels, including lifestyle, entertainment, business, social media, tech, world. 
+
+There are six sections of our project: introduction, data, summarizations, modeling, comparison, and automation. Firstly, we read in the data file and subset the data which we need. We also split the data into training set and test set. Then we produced some basic summary statistics and plots about the training data. Based on this analysis, we selected the predictive variables. After that, we fitted the models and choosed the best model for predicting the response variable. I think the most difficult part for me is automation, but this part is also my big take-away. It is my first time to automatically generate the analysis reports. I spent a lot of time on this part. I read the automation part of lecture again, and also used Google to search some examples. After tried many times, I can get the six reports automatically at last. For this project, I also did the basic EDA and practised fitting models. I would like to try to fit different models if I meet the similar project in the future. Above all, the experience of completing this project let me learn a lot. It is very useful and interesting.
+
+If your are interested in my project, here is the [rendered github pages](https://shaoyucherish.github.io/Project3/) and the [github repo](https://github.com/shaoyucherish/Project3).
